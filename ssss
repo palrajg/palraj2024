@@ -1,0 +1,15 @@
+[33mcommit 74ef906e266f718c572c62f34247457c5c9aa945[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: palraj <palrajgbscis@gmail.com>
+Date:   Mon Apr 22 11:31:53 2024 +0530
+
+    committing demo1
+
+[1mdiff --git a/demo1 b/demo1[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/demo2 b/demo2[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/demo3 b/demo3[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
